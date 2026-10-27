@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Vegan.TCPClient.DuyLD/Vegan.TCPClient.DuyLD.csproj" />
+  <Project Path="Vegan.TCPServer.DuyLD/Vegan.TCPServer.DuyLD.csproj" />
+</Solution>
